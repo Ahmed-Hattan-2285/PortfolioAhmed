@@ -1,14 +1,40 @@
-# [Global: HTML5 website template](https://haitham8888.github.io/PortfolioVillo/)
+# 👋 Hi, I'm Ahmed Hattan!
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+🎓 **Computer Science Graduate**  
+💻 **Full-Stack & Flutter Developer**  
+🎨 **UI/UX Enthusiast**  
+📊 **Database Management**  
+⚙️ **System Optimization & Technical Support**
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+---
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+### 🌟 About Me
 
-[LIVE PREVIEW](https://haitham8888.github.io/PortfolioVillo/)
+I'm Ahmed, a computer science graduate with a passion for software development and design. My expertise lies in full-stack and mobile app development using Flutter, with a strong interest in creating user-friendly, visually engaging interfaces. I also have experience in database management, system optimization, and technical support, making me a versatile addition to any team.
 
-## Misc:
+---
 
-* Follow Me: [Twitter](https://twitter.com/_Villo0), [GitHub](https://github.com/Haitham8888)
+### 🔧 Technical Skills
 
+- **Programming Languages:** Dart, JavaScript, Python, SQL
+- **Frontend:** Flutter, HTML, CSS, React.js
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, MongoDB, Firebase
+- **Tools:** Git, Docker, Figma
+
+---
+
+### 🚀 Current Focus
+
+- Building cross-platform mobile applications with Flutter.
+- Enhancing my skills in backend development and cloud services.
+- Exploring new trends in UI/UX design to improve user experiences.
+
+---
+
+### 📫 Connect with Me
+
+- **GitHub:** [Ahmed Hattan](https://github.com/Ahmed-Hattan-2285)
+- **LinkedIn:** [Ahmed Hattan](https://www.linkedin.com/in/ahmed-hattan-754189316/)
+- **Linktree:** [AhmedHattan](https://linktr.ee/AhmedHattan)
+- **Portfolio:** [PortfolioAhmed](https://ahmed-hattan-2285.github.io/PortfolioAhmed/)
